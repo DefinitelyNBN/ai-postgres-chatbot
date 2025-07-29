@@ -1,0 +1,17 @@
+# Core dependencies
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.10
+openai>=1.6.0
+psycopg2-binary>=2.9.5
+sqlalchemy>=2.0.0
+pydantic>=2.5.0
+python-dotenv>=1.0.0
+
+# Web interface
+streamlit>=1.29.0
+streamlit-chat>=0.1.1
+
+# CLI interface
+click>=8.1.0
+rich>=13.7.0
